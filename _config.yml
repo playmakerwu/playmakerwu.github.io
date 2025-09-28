@@ -1,0 +1,18 @@
+title: Yiru Wu
+description: Personal homepage and portfolio for Machine Learning Engineering & Software Engineering roles.
+theme: jekyll-theme-cayman
+url: https://playmakerwu.github.io
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Contact & socials (used across pages)
+author:
+  name: Yiru Wu
+  email: playmakerwu@outlook.com
+  github: playmakerwu
+  linkedin: https://www.linkedin.com/in/yiru-wu-8062b6288/   # e.g., yiru-wu
